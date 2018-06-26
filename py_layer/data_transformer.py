@@ -240,7 +240,7 @@ if __name__ == "__main__":
     params = {}
     params['batch_size'] = 12
     params['stride'] = 8
-    params['data_dir'] = '/home/xiaocc/Documents/caffe-cpm/release/dataset/redpanda_dataset'
+    params['data_dir'] = '../example/my_dataset'
     params['max_rotate_degree'] = 40
     params['crop_size_x'] = 368
     params['crop_size_y'] = 368
